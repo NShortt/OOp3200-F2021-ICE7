@@ -1,3 +1,8 @@
+/**
+ * @author Nicholas Shortt, StudentID: 100630003
+ * @date November 02, 2021
+ * @version 0.0.1
+ */
 package ca.durhamcollege;
 
 public class Person
